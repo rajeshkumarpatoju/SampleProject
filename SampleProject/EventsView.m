@@ -25,7 +25,7 @@ NSArray *eventObjectArray;
     
     eventObjectArray = [NSArray arrayWithObjects:eventInfo1,eventInfo2,eventInfo3, nil];
     
-    eventInfo1.EventTitle = @"Venni's B'day";
+    eventInfo1.EventTitle = @"Rajesh's B'day";
     eventInfo1.EventDate = @"23-jun-2016 6:30pm";
     eventInfo1.titleViewed = @"Viewed";
     eventInfo1.viewCount = @"23";
